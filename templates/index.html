@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Türkçe Film Yorumu Duygu Analizi</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Türkçe Film Yorumu Duygu Analizi</h1>
+        <p class="subtitle">Bir film yorumu girin, duygu durumunu tahmin edelim!</p>
+        <div class="input-container">
+            <textarea id="comment" placeholder="Örnek: Film harikaydı, bayıldım!" rows="4"></textarea>
+            <button id="predict-btn">Tahmin Et</button>
+        </div>
+        <div id="result" class="result">Sonuç Tf-İdf: Henüz tahmin yapılmadı.</div>
+        <div id="probabilities" class="probabilities">Olasılıklar: -</div>
+    </div>
+    <div class="marquee-wrapper">
+        <div class="marquee-row"><div class="track" id="row1"></div></div>
+        <div class="marquee-row"><div class="track" id="row2"></div></div>
+        <div class="marquee-row"><div class="track" id="row3"></div></div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

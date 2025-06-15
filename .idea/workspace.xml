@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f98b52e4-77b6-450b-8174-da28e2935845" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FİlmYorumDuyguAnalizi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hebe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-procces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentiment_analysis_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentiment_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/12th_Fail_(2023)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/2001_A_Space_Odyssey_(1968)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/3_Idiots_(2009)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Aamir_Khan_and_Darsheel_Safary_in_Taare_Zameen_Par_(2007)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Al_Pacino_in_Scarface_(1983)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Al_Pacino_in_The_Godfather_Part_II_(1974)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Albert_Brooks,_Ellen_DeGeneres,_and_Barry_Humphries_in_Finding_Nemo_(2003)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Alec_Guinness,_Anthony_Quinn,_Peter_O'Toole,_José_Ferrer,_and_Jack_Hawkins_in_Lawrence_of_Arabia_(1962)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Alec_Guinness,_William_Holden,_Jack_Hawkins,_Sessue_Hayakawa,_Geoffrey_Horne,_and_Ann_Sears_in_The_Bridge_on_the_River_Kwai_(1957)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Aleksey_Kravchenko_in_Idi_i_smotri_(1985)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Alfonso_Arau,_Benjamin_Bratt,_Alanna_Ubach,_Gael_García_Bernal,_Dyana_Ortelli,_Herbert_Siguenza,_and_Anthony_Gonzalez_in_Coco_(2017)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Alien_(1979)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/All_About_Eve_(1950)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Amadeus_(1984)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Andrew_Garfield_in_Hacksaw_Ridge_(2016)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Anthony_Daniels,_Carrie_Fisher,_Mark_Hamill,_James_Earl_Jones,_David_Prowse,_and_Kenny_Baker_in_Star_Wars_(1977)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Anthony_Hopkins_and_Olivia_Colman_in_The_Father_(2020)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Anthony_Perkins,_John_Gavin,_Janet_Leigh,_and_Heather_Dawn_May_in_Psycho_(1960)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Arnold_Schwarzenegger_in_Terminator_2_Judgment_Day_(1991)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Arnold_Schwarzenegger_in_The_Terminator_(1984)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Audrey_Tautou_in_Le_fabuleux_destin_d'Amélie_Poulain_(2001)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Bacheha-ye_aseman_(1997)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Barry_Lyndon_(1975)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ben-Hur_(1959)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ben_Affleck_and_Rosamund_Pike_in_Gone_Girl_(2014)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Benedict_Cumberbatch_in_Spider-Man_No_Way_Home_(2021)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Bill_Murray_and_Andie_MacDowell_in_Groundhog_Day_(1993)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Billy_Crystal_and_John_Goodman_in_Monsters,_Inc._(2001)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Brad_Pitt,_Til_Schweiger,_Daniel_Brühl,_Mélanie_Laurent,_Eli_Roth,_Christoph_Waltz,_and_Diane_Kruger_in_Inglourious_Basterds_(2009)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Brad_Pitt_and_Edward_Norton_in_Fight_Club_(1999)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Brad_Pitt_and_Morgan_Freeman_in_Se7en_(1995)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Braveheart_(1995)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Brie_Larson_and_Jacob_Tremblay_in_Room_(2015)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Bruce_Willis_and_Haley_Joel_Osment_in_The_Sixth_Sense_(1999)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Bruno_Ganz_in_Der_Untergang_(2004)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Buster_Keaton_in_Sherlock_Jr._(1924)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Buster_Keaton_in_The_General_(1926)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/C'era_una_volta_il_West_(1968)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Capharnaüm_(2018)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Cary_Grant,_Alfred_Hitchcock,_Eva_Marie_Saint,_and_Philip_Ober_in_North_by_Northwest_(1959)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Charles_Chaplin_and_Jackie_Coogan_in_The_Kid_(1921)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Charles_Chaplin_and_Paulette_Goddard_in_The_Great_Dictator_(1940)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Charles_Chaplin_in_City_Lights_(1931)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Charles_Chaplin_in_Modern_Times_(1936)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Charles_Chaplin_in_The_Gold_Rush_(1925)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Charlie_Sheen,_Willem_Dafoe,_John_C._McGinley,_and_Kevin_Eshelman_in_Platoon_(1986)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Charlize_Theron_and_Tom_Hardy_in_Mad_Max_Fury_Road_(2015)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Chiwetel_Ejiofor_in_12_Years_a_Slave_(2013)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Christian_Bale,_Hugh_Jackman,_and_Scarlett_Johansson_in_The_Prestige_(2006)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Christian_Bale,_Jean_Simmons,_Chieko_Baishô,_and_Takuya_Kimura_in_Hauru_no_ugoku_shiro_(2004)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Christian_Bale_and_Matt_Damon_in_Ford_v_Ferrari_(2019)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Christian_Bale_in_Batman_Begins_(2005)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Christian_Bale_in_The_Dark_Knight_(2008)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Cidade_de_Deus_(2002)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Claire_Danes_and_Yuriko_Ishida_in_Mononoke-hime_(1997)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Clark_Gable_and_Vivien_Leigh_in_Gone_with_the_Wind_(1939)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Clint_Eastwood,_Morgan_Freeman,_and_Hilary_Swank_in_Million_Dollar_Baby_(2004)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Clint_Eastwood_and_Morgan_Freeman_in_Unforgiven_(1992)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Clint_Eastwood_in_Gran_Torino_(2008)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Corinne_Orr,_Ayano_Shiraishi,_Tsutomu_Tatsumi,_J._Robert_Spencer,_Emily_Neves,_and_Adam_Gibbs_in_Hotaru_no_haka_(1988)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Dana_Andrews,_Myrna_Loy,_Fredric_March,_Virginia_Mayo,_and_Teresa_Wright_in_The_Best_Years_of_Our_Lives_(1946)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Dangal_(2016)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Daniel_Brühl_and_Chris_Hemsworth_in_Rush_(2013)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Daniel_Day-Lewis,_Pete_Postlethwaite,_and_Emma_Thompson_in_In_the_Name_of_the_Father_(1993)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Daniel_Day-Lewis_in_There_Will_Be_Blood_(2007)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Das_Boot_(1981)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Det_sjunde_inseglet_(1957)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Don_Cheadle,_Nick_Nolte,_Mosa_Kaiser,_Sophie_Okonedo,_Ofentse_Modiselle,_and_Mathabo_Pieterson_in_Hotel_Rwanda_(2004)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Dr._Strangelove_or_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb_(1964)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Edward_G._Robinson,_Barbara_Stanwyck,_and_Fred_MacMurray_in_Double_Indemnity_(1944)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Edward_Norton_in_American_History_X_(1998)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Emile_Hirsch_in_Into_the_Wild_(2007)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Emilio_Echevarría,_Gael_García_Bernal,_and_Goya_Toledo_in_Amores_perros_(2000)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ethan_Hawke_and_Julie_Delpy_in_Before_Sunrise_(1995)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ethan_Hawke_and_Julie_Delpy_in_Before_Sunset_(2004)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ewan_McGregor,_Robert_Carlyle,_Jonny_Lee_Miller,_Ewen_Bremner,_and_Kelly_Macdonald_in_Trainspotting_(1996)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Fargo_(1996)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Fernanda_Torres_in_Ainda_Estou_Aqui_(2024)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Fouzia_El_Kader,_Brahim_Hadjadj,_and_Jean_Martin_in_La_battaglia_di_Algeri_(1966)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/François_Cluzet_and_Omar_Sy_in_Intouchables_(2011)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Full_Metal_Jacket_(1987)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Gangs_of_Wasseypur_(2012)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Gene_Kelly,_Debbie_Reynolds,_and_Donald_O'Connor_in_Singin'_in_the_Rain_(1952)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/George_MacKay_and_Dean-Charles_Chapman_in_1917_(2019)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Grace_Kelly,_James_Stewart,_Georgine_Darcy,_Judith_Evelyn,_and_Harry_Landers_in_Rear_Window_(1954)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Grace_Kelly_and_Anthony_Dawson_in_Dial_M_for_Murder_(1954)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Gregory_Peck,_Mary_Badham,_and_Phillip_Alford_in_To_Kill_a_Mockingbird_(1962)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Guy_Pearce_in_Memento_(2000)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Hababam_Sinifi_Sinifta_Kaldi_(1975)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Harrison_Ford,_Karen_Allen,_Paul_Freeman,_Wolf_Kahler,_Ronald_Lacey,_and_Terry_Richards_in_Raiders_of_the_Lost_Ark_(1981)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Harrison_Ford_and_Sean_Young_in_Blade_Runner_(1982)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Harry_Potter_and_the_Deathly_Hallows_-_Part_2_(2011)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Henry_Fonda,_John_Carradine,_Jane_Darwell,_Dorris_Bowdon,_Frank_Darien,_and_Russell_Simpson_in_The_Grapes_of_Wrath_(1940)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Hugh_Jackman_in_Logan_(2017)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Humphrey_Bogart,_Tim_Holt,_and_Walter_Huston_in_The_Treasure_of_the_Sierra_Madre_(1948)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Hümeyra,_Fikret_Kuskan,_Çetin_Tekindor,_Özge_Özberk,_and_Ege_Tanman_in_Babam_ve_Oglum_(2005)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ikiru_(1952)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Il_buono,_il_brutto,_il_cattivo_(1966)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ingrid_Bergman,_Humphrey_Bogart,_Peter_Lorre,_Claude_Rains,_Sydney_Greenstreet,_Paul_Henreid,_and_Conrad_Veidt_in_Casablanca_(1942)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Interstellar_(2014)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ivana_Baquero_in_El_laberinto_del_fauno_(2006)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jack_Lemmon_and_Shirley_MacLaine_in_The_Apartment_(1960)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jack_Nicholson_and_Faye_Dunaway_in_Chinatown_(1974)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jack_Nicholson_in_One_Flew_Over_the_Cuckoo's_Nest_(1975)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jake_Gyllenhaal_and_Hugh_Jackman_in_Prisoners_(2013)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/James_Cromwell_and_Guy_Pearce_in_L.A._Confidential_(1997)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/James_Stewart,_Jean_Arthur,_Claude_Rains,_Edward_Arnold,_Beulah_Bondi,_Guy_Kibbee,_Thomas_Mitchell,_and_Eugene_Pallette_in_Mr._Smith_Goes_to_Washington_(1939)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/James_Stewart_and_Donna_Reed_in_It's_a_Wonderful_Life_(1946)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jason_Flemyng,_Dexter_Fletcher,_Vinnie_Jones,_Jason_Statham,_and_Nick_Moran_in_Lock,_Stock_and_Two_Smoking_Barrels_(1998)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Javier_Bardem_and_Josh_Brolin_in_No_Country_for_Old_Men_(2007)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jay_Baruchel_and_Randy_Thom_in_How_to_Train_Your_Dragon_(2010)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jeff_Bridges_and_John_Goodman_in_The_Big_Lebowski_(1998)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jeff_Goldblum,_Richard_Attenborough,_Laura_Dern,_Sam_Neill,_Ariana_Richards,_BD_Wong,_Joseph_Mazzello,_Martin_Ferrero,_and_Bob_Peck_in_Jurassic_Park_(1993)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jennifer_Aniston,_Harry_Connick_Jr.,_John_Mahoney,_Christopher_McDonald,_Vin_Diesel,_Bob_Bergen,_and_Eli_Marienthal_in_The_Iron_Giant_(1999)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jennifer_Connelly,_Ellen_Burstyn,_Jared_Leto,_and_Marlon_Wayans_in_Requiem_for_a_Dream_(2000)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jim_Carrey_and_Kate_Winslet_in_Eternal_Sunshine_of_the_Spotless_Mind_(2004)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jim_Carrey_in_The_Truman_Show_(1998)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Joan_Cusack,_Jason_Schwartzman,_Rashida_Jones,_Sergio_Pablos,_Will_Sasso,_J.K._Simmons,_and_Neda_Margrethe_Labba_in_Klaus_(2019)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Joaquin_Phoenix_in_Joker_(2019)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Jodie_Foster_in_The_Silence_of_the_Lambs_(1991)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Joel_Edgerton_and_Tom_Hardy_in_Warrior_(2011)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/John_Cleese,_Terry_Gilliam,_Graham_Chapman,_Eric_Idle,_Terry_Jones,_and_Michael_Palin_in_Monty_Python_and_the_Holy_Grail_(1975)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Johnny_Depp,_Geoffrey_Rush,_Orlando_Bloom,_and_Keira_Knightley_in_Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_(2003)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Judy_Garland,_Ray_Bolger,_Jack_Haley,_Bert_Lahr,_and_Frank_Morgan_in_The_Wizard_of_Oz_(1939)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Keanu_Reeves,_Laurence_Fishburne,_Joe_Pantoliano,_and_Carrie-Anne_Moss_in_The_Matrix_(1999)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Kevin_Spacey,_Stephen_Baldwin,_Gabriel_Byrne,_Benicio_Del_Toro,_and_Kevin_Pollak_in_The_Usual_Suspects_(1995)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Kevin_Spacey,_Thora_Birch,_Mena_Suvari,_and_Wes_Bentley_in_American_Beauty_(1999)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Kim_Min-hee,_Ha_Jung-woo,_Cho_Jin-woong,_and_Kim_Tae-ri_in_Ah-ga-ssi_(2016)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Kimi_no_na_wa._(2016)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Kirk_Douglas_in_Paths_of_Glory_(1957)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Koe_no_katachi_(2016)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ladri_di_biciclette_(1948)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Le_salaire_de_la_peur_(1953)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Leila_Hatami,_Shahab_Hosseini,_Payman_Maadi,_and_Sareh_Bayat_in_Jodaeiye_Nader_az_Simin_(2011)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Leonardo_DiCaprio,_Chris_Kerson,_and_Jonah_Hill_in_The_Wolf_of_Wall_Street_(2013)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Leonardo_DiCaprio,_Jack_Nicholson,_and_Matt_Damon_in_The_Departed_(2006)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Leonardo_DiCaprio,_Jamie_Foxx,_and_Christoph_Waltz_in_Django_Unchained_(2012)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Leonardo_DiCaprio,_Joseph_Gordon-Levitt,_Tom_Hardy,_Elliot_Page,_Ken_Watanabe,_and_Dileep_Rao_in_Inception_(2010)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Leonardo_DiCaprio_and_Tom_Hanks_in_Catch_Me_If_You_Can_(2002)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Leonardo_DiCaprio_in_Shutter_Island_(2010)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Leslie_Odom_Jr._in_Hamilton_(2020)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Lewis_Black,_Bill_Hader,_Amy_Poehler,_Phyllis_Smith,_and_Mindy_Kaling_in_Inside_Out_(2015)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Liv_Tyler,_Sean_Astin,_Elijah_Wood,_Viggo_Mortensen,_Ian_McKellen,_and_Andy_Serkis_in_The_Lord_of_the_Rings_The_Return_of_the_King_(2003)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/M_-_Eine_Stadt_sucht_einen_Mörder_(1931)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Mads_Mikkelsen_in_Jagten_(2012)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Maharaja_(2024)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Malcolm_McDowell_in_A_Clockwork_Orange_(1971)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Maria_Falconetti_in_La_passion_de_Jeanne_d'Arc_(1928)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Marilyn_Monroe,_Tony_Curtis,_and_Jack_Lemmon_in_Some_Like_It_Hot_(1959)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Mark_Hamill,_Pedro_Pascal,_Lupita_Nyong'o,_Piotr_Michael,_and_Kit_Connor_in_The_Wild_Robot_(2024)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Marlene_Dietrich,_Judy_Garland,_Burt_Lancaster,_Spencer_Tracy,_Montgomery_Clift,_Maximilian_Schell,_and_Richard_Widmark_in_Judgment_at_Nuremberg_(1961)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Marlene_Dietrich_and_Tyrone_Power_in_Witness_for_the_Prosecution_(1957)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Marlon_Brando_and_Martin_Sheen_in_Apocalypse_Now_(1979)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Marlon_Brando_in_On_the_Waterfront_(1954)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Marlon_Brando_in_The_Godfather_(1972)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Martina_Gedeck,_Sebastian_Koch,_and_Ulrich_Mühe_in_Das_Leben_der_Anderen_(2006)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Mary_and_Max._(2009)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Matthew_Broderick_in_The_Lion_King_(1994)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Max_von_Sydow_in_The_Exorcist_(1973)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Michael_J._Fox_in_Back_to_the_Future_(1985)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Michael_Keaton,_Liev_Schreiber,_Brian_d'Arcy_James,_Mark_Ruffalo,_and_Rachel_McAdams_in_Spotlight_(2015)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Miles_Teller_in_Whiplash_(2014)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Morgan_Freeman,_Gary_Oldman,_Christian_Bale,_Michael_Caine,_Matthew_Modine,_Anne_Hathaway,_Marion_Cotillard,_and_Joseph_Gordon-Levitt_in_The_Dark_Knight_Rises_(2012)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Mélissa_Désormeaux-Poulin_in_Incendies_(2010)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Natalie_Portman_and_Hugo_Weaving_in_V_for_Vendetta_(2005)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Natalie_Portman_and_Jean_Reno_in_Léon_(1994)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Network_(1976)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Nuovo_Cinema_Paradiso_(1988)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Oldeuboi_(2003)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Oliwia_Dabrowska_in_Schindler's_List_(1993)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Orson_Welles,_Dorothy_Comingore,_and_Ruth_Warrick_in_Citizen_Kane_(1941)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ran_(1985)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Ricardo_Darín_and_Soledad_Villamil_in_El_secreto_de_sus_ojos_(2009)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Richard_Attenborough,_Steve_McQueen,_and_James_Garner_in_The_Great_Escape_(1963)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Richard_Gere_in_Hachi_A_Dog's_Tale_(2009)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Robert_De_Niro,_James_Woods,_William_Forsythe,_Brian_Bloom,_Adrian_Curran,_James_Hayden,_Rusty_Jacobs,_and_Scott_Tiler_in_Once_Upon_a_Time_in_America_(1984)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Robert_De_Niro,_Ray_Liotta,_and_Joe_Pesci_in_GoodFellas_(1990)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Robert_De_Niro,_Sharon_Stone,_and_Joe_Pesci_in_Casino_(1995)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Robert_De_Niro,_Val_Kilmer,_Al_Pacino,_Ted_Levine,_Wes_Studi,_Jerry_Trimble,_and_Mykelti_Williamson_in_Heat_(1995)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Robert_De_Niro_in_Raging_Bull_(1980)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Robert_De_Niro_in_Taxi_Driver_(1976)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Robert_De_Niro_in_The_Deer_Hunter_(1978)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Roberto_Benigni,_Nicoletta_Braschi,_and_Giorgio_Cantarini_in_La_vita_è_bella_(1997)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Robin_Williams_and_Matt_Damon_in_Good_Will_Hunting_(1997)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Robin_Williams_in_Dead_Poets_Society_(1989)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Russell_Crowe_in_A_Beautiful_Mind_(2001)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Russell_Crowe_in_Gladiator_(2000)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Salinui_chueok_(2003)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Samuel_L._Jackson,_Holly_Hunter,_Jason_Lee,_Craig_T._Nelson,_Brad_Bird,_Sarah_Vowell,_and_Spencer_Fox_in_The_Incredibles_(2004)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Sen_to_Chihiro_no_kamikakushi_(2001)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Setsuko_Hara_and_Chishû_Ryû_in_Tôkyô_monogatari_(1953)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Sigourney_Weaver_and_Carrie_Henn_in_Aliens_(1986)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Smultronstället_(1957)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Spider-Man_Into_the_Spider-Verse_(2018)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Stand_by_Me_(1986)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Steve_Buscemi,_Harvey_Keitel,_Michael_Madsen,_Tim_Roth,_and_Chris_Penn_in_Reservoir_Dogs_(1992)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Suriya_and_Lijo_Mol_Jose_in_Jai_Bhim_(2021)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Susan_Backlinie_and_Bruce_in_Jaws_(1975)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Sylvester_Stallone_and_Talia_Shire_in_Rocky_(1976)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Tabu,_Ajay_Devgn,_Shriya_Saran,_Ishita_Dutta,_and_Mrunal_Jadhav_in_Drishyam_(2015)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Tatsuya_Nakadai_and_Tetsurô_Tanba_in_Seppuku_(1962)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/The_Elephant_Man_(1980)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/The_Grand_Budapest_Hotel_(2014)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/The_Pianist_(2002)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/The_Shining_(1980)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/The_Thing_(1982)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/The_Third_Man_(1949)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Tim_Robbins_in_The_Shawshank_Redemption_(1994)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/To_Be_or_Not_to_Be_(1942)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Tom_Cruise_in_Top_Gun_Maverick_(2022)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Tom_Hanks,_Hanna_Hall,_Michael_Conner_Humphreys,_and_Mykelti_Williamson_in_Forrest_Gump_(1994)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Tom_Hanks,_Matt_Damon,_Tom_Sizemore,_and_Edward_Burns_in_Saving_Private_Ryan_(1998)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Tom_Hanks,_R._Lee_Ermey,_Tim_Allen,_Annie_Potts,_John_Ratzenberger,_Wallace_Shawn,_Jim_Varney,_and_Don_Rickles_in_Toy_Story_(1995)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Tom_Hanks_and_Michael_Clarke_Duncan_in_The_Green_Mile_(1999)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Tonari_no_Totoro_(1988)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Toshirô_Mifune,_Kenjirô_Ishiyama,_Kyôko_Kagawa,_Tatsuya_Mihashi,_and_Tatsuya_Nakadai_in_Tengoku_to_jigoku_(1963)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Toshirô_Mifune,_Minoru_Chiaki,_Yoshio_Inaba,_Daisuke_Katô,_Isao_Kimura,_Seiji_Miyaguchi,_Takashi_Shimura,_and_Keiko_Tsushima_in_Shichinin_no_samurai_(1954)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Toshirô_Mifune_and_Machiko_Kyô_in_Rashômon_(1950)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Toshirô_Mifune_and_Tatsuya_Nakadai_in_Yôjinbô_(1961)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Uma_Thurman_in_Kill_Bill_Vol._1_(2003)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Uma_Thurman_in_Pulp_Fiction_(1994)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Up_(2009)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Vertigo_(1958)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Viggo_Mortensen,_Ian_McKellen,_Orlando_Bloom,_and_John_Rhys-Davies_in_The_Lord_of_the_Rings_The_Two_Towers_(2002)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Viggo_Mortensen_and_Mahershala_Ali_in_Green_Book_(2018)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Vincent_Cassel,_Hubert_Koundé,_and_Saïd_Taghmaoui_in_La_haine_(1995)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Viola_Davis,_Bryce_Dallas_Howard,_Octavia_Spencer,_and_Emma_Stone_in_The_Help_(2011)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/WALL·E_(2008)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/William_Holden,_Nancy_Olson,_and_Gloria_Swanson_in_Sunset_Boulevard_(1950)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/posters/Woody_Harrelson,_Frances_McDormand,_and_Sam_Rockwell_in_Three_Billboards_Outside_Ebbing,_Missouri_(2017)_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tfidf_vectorizer.pkl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xHRjIh1DLwoLA3HZPftZmqd6NR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.script.js.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image-procces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sentiment_analysis_gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/baris/Desktop/tum/codeexperince/BTK/FİlmYorumDuyguAnalizi&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\baris\Desktop\tum\codeexperince\BTK\FİlmYorumDuyguAnalizi" />
+      <recent name="C:\Users\baris\Desktop\tum\codeexperince\BTK\FİlmYorumDuyguAnalizi\static\posters" />
+      <recent name="C:\Users\baris\Desktop\tum\codeexperince\BTK\FİlmYorumDuyguAnalizi\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\baris\Desktop\tum\codeexperince\BTK\FİlmYorumDuyguAnalizi\static\css" />
+      <recent name="C:\Users\baris\Desktop\tum\codeexperince\BTK\FİlmYorumDuyguAnalizi\static\js" />
+      <recent name="C:\Users\baris\Desktop\tum\codeexperince\BTK\FİlmYorumDuyguAnalizi\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FİlmYorumDuyguAnalizi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f98b52e4-77b6-450b-8174-da28e2935845" name="Changes" comment="" />
+      <created>1747593145465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747593145465</updated>
+      <workItem from="1747593148985" duration="1499000" />
+      <workItem from="1747652434777" duration="17026000" />
+      <workItem from="1747812233322" duration="4164000" />
+      <workItem from="1749556355329" duration="1315000" />
+      <workItem from="1749678843422" duration="8594000" />
+      <workItem from="1749731960488" duration="3341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FlmYorumDuyguAnalizi$test.coverage" NAME="test Coverage Results" MODIFIED="1749732367692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlmYorumDuyguAnalizi$main.coverage" NAME="main Coverage Results" MODIFIED="1749732275551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlmYorumDuyguAnalizi$image_procces.coverage" NAME="image-procces Coverage Results" MODIFIED="1747661803075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlmYorumDuyguAnalizi$app2.coverage" NAME="app2 Coverage Results" MODIFIED="1749681016913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlmYorumDuyguAnalizi$sentiment_analysis_gui.coverage" NAME="sentiment_analysis_gui Coverage Results" MODIFIED="1747593783024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlmYorumDuyguAnalizi$app.coverage" NAME="app Coverage Results" MODIFIED="1749683559271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
